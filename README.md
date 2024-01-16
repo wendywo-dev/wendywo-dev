@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wendywo-dev
+- 👋 Hi, I’m Wendy Wo
 - 👀 I’m interested in coding, solving problems, reading and wirting
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on web development
